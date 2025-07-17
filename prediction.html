@@ -12,6 +12,7 @@
     <title>prediction</title>
     <link rel="icon" href="https://repository-images.githubusercontent.com/499116129/ebf45738-0201-41d2-a851-84b0b8616d5a" type="image/x-icon">
     <style>
+
         /* Custom CSS for the prediction box */
         .prediction-box {
             background-color: #F59E0B; /* Set colorful background color */
@@ -20,11 +21,14 @@
             margin-bottom: 20px; /* Add margin bottom */
         }
         body{
-          background: rgb(34,193,195);
-background: -moz-radial-gradient(circle, rgba(34,193,195,1) 0%, rgba(189,253,45,0.7707457983193278) 100%);
-background: -webkit-radial-gradient(circle, rgba(34,193,195,1) 0%, rgba(189,253,45,0.7707457983193278) 100%);
-background: radial-gradient(circle, rgba(34,193,195,1) 0%, rgba(189,253,45,0.7707457983193278) 100%);
-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#22c1c3",endColorstr="#bdfd2d",GradientType=1);
+
+    background-image: url("static/car2.jpg");
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      height: 100vh;
+      margin: 0;
+      font-family: Arial, sans-serif;
         }
     </style>
 </head>
@@ -33,14 +37,14 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#22c1c3",endCo
 <section class="text-gray-600 body-font">
     <div class="container px-5 py-24 mx-auto">
         <div class="flex flex-col text-center w-full mb-20">
-            <h1 class="sm:text-3xl text-2xl font-medium title-font mb-4 text-gray-900"><u><b>VEHICLE VALUATION</b></u></h1>
+            <h1 class="sm:text-3xl text-2xl font-medium title-font mb-4 text-gray-900"><u><b>Car Price Prediction</b></u></h1>
             <p class="lg:w-2/3 mx-auto leading-relaxed text-base"><strong>Fill the form for prediction</strong> </p>
         </div>
         <a class="btn btn-primary" href="./" role="button">Home</a><br><br>
       
         <div class="prediction-box">
-            <h2 class="text-lg text-white font-semibold mb-2">Predicted Price
-                <span class="text-base font-normal text-black" id="prediction-text" style="font-size:20px; padding: 2px;">
+            <h2 class="text-lg text-white font-semibold mb-2">Predicted Price :  
+                <span class="text-base font-normal text-black" id="prediction-text" style="background-color: yellow; padding: 2px;">
                     {{prediction_text}}
                 </span>
             </h2>
@@ -52,22 +56,23 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#22c1c3",endCo
 <form action='/predict' method='POST'>
 
     <div class="mb-3">
-        <label for="price" class="form-label"><b style="color: darkblue;">Enter The Buying Price </b></label>
-        <input type="number" class="form-control" id="price" name="price" placeholder="Enter Current Price" min="300000" max="200000000" required>
+        <label for="price" class="form-label"><b style="color: darkblue;">Enter Current Price </b></label>
+        <input type="number" class="form-control" id="price" name="price" placeholder="Enter Current Price" min="350000" max="200000000" required>
     </div>
     
     <div class="mb-3">
         <label for="kms" class="form-label"><b style="color: darkblue;">Kilometers Driven</b></label>
-        <input type="number" class="form-control" id="kms" name="kms" placeholder="Kilometers Driven" min="0" max="30000000" required>
+        <input type="number" class="form-control" id="kms" name="kms" placeholder="Kilometers Driven" min="0" max="300000" required>
     </div>
 
     <div class="mb-3">
         <label for="fuel" class="form-label"><b style="color: darkblue;">Fuel Type</b></label>
         <select class="form-select" id="fuel" name="fuel" aria-label="Fuel Type" required>
             <option value="" disabled selected>-- Fuel Type --</option>
-            <option value="cng">CNG</option>
+            <option value="cng">Hybrid</option>
             <option value="diesel">Diesel</option>
             <option value="petrol">Petrol</option>
+            <option value="petrol">Electric</option>
         </select>
     </div>
 
@@ -96,7 +101,8 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#22c1c3",endCo
             <option value="0">0</option>
             <option value="1">1</option>
             <option value="2">2</option>
-            <option value="3+">3+</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
         </select>
     </div>
 

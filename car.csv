@@ -1,0 +1,251 @@
+Car_Name,Year,Selling_Price,Present_Price,Kms_Driven,Fuel_Type,Seller_Type,Transmission,Owner
+Honda Fit,2009,798583.37,1011303.41,126991,Petrol,Dealer,Manual,Second
+Honda Fit,2016,4989829.89,898997.7,129670,Diesel,Individual,Manual,Third
+Nissan X-Trail,2005,671428.2,4115746.84,18270,Petrol,Individual,Manual,Second
+Mazda Demio,2009,1689224.7,4641333.2,99713,Hybrid,Individual,Manual,First
+Toyota Corolla,2016,2992221,4762202.45,163827,Petrol,Dealer,Automatic,First
+Honda Fit,2024,2144875.4,438493.29,223374,Diesel,Individual,Automatic,Fourth & Above
+Honda Fit,2014,4759792.81,4435131.19,218934,Diesel,Individual,Automatic,Fourth & Above
+Mazda Demio,2008,1863261.8,930796.03,134114,Hybrid,Dealer,Manual,Third
+Honda Fit,2015,351531.7,3978696.09,207207,Electric,Dealer,Manual,Second
+Toyota Corolla,2005,4974093.89,3417169.12,132621,Hybrid,Dealer,Automatic,First
+Toyota Corolla,2013,2965893.92,4421290.39,10273,Hybrid,Dealer,Manual,First
+Nissan X-Trail,2020,3976893.67,1087550.58,131219,Petrol,Individual,Automatic,Second
+Nissan X-Trail,2018,1929141.55,1999892.88,133607,Petrol,Dealer,Automatic,First
+Mazda Demio,2009,728631.05,1328260.61,157205,Petrol,Dealer,Manual,Third
+Honda Fit,2013,4071722.65,2118922.97,96196,Hybrid,Dealer,Manual,Fourth & Above
+Toyota Corolla,2018,3458895.57,5412793.6,73859,Diesel,Individual,Automatic,Fourth & Above
+Honda Fit,2013,1105352.42,1727221.47,180469,Hybrid,Dealer,Automatic,Fourth & Above
+Honda Fit,2016,1101983.69,3852322.69,152009,Diesel,Individual,Automatic,Second
+Honda Fit,2021,2015960.02,881812.99,110120,Petrol,Individual,Manual,Second
+Subaru Forester,2008,1435016.13,4113533.8,202573,Hybrid,Dealer,Manual,Second
+Subaru Forester,2022,4958489.89,2902392.28,235127,Petrol,Individual,Automatic,Second
+Nissan X-Trail,2018,574984.49,2357170.99,238575,Diesel,Individual,Manual,Fourth & Above
+Nissan X-Trail,2008,3175172.23,4585173.73,83071,Diesel,Dealer,Automatic,Second
+Toyota Corolla,2011,399872.44,3358924.98,157828,Petrol,Dealer,Automatic,First
+Toyota Corolla,2016,4195525.99,3482745.32,86931,Petrol,Dealer,Manual,Second
+Honda Fit,2020,2354948.06,3079132.68,112369,Electric,Dealer,Manual,Fourth & Above
+Subaru Forester,2013,4175380.31,5894213.28,126520,Diesel,Dealer,Manual,Second
+Nissan X-Trail,2009,848265.71,1132539.25,177374,Hybrid,Dealer,Automatic,First
+Mazda Demio,2007,2716763.59,5477846.25,197463,Diesel,Individual,Manual,Second
+Nissan X-Trail,2022,3932031.04,1285279.28,154206,Hybrid,Individual,Manual,Second
+Nissan X-Trail,2014,3907286.65,1865921.54,108414,Electric,Individual,Manual,Second
+Nissan X-Trail,2007,1082622.43,3806402.85,26329,Diesel,Individual,Automatic,First
+Subaru Forester,2017,2282155.72,4180044.21,97501,Hybrid,Individual,Automatic,Second
+Nissan X-Trail,2005,693618.52,2829756.18,185922,Hybrid,Individual,Automatic,First
+Mazda Demio,2024,1177604.67,1351010.97,185536,Diesel,Dealer,Automatic,Second
+Honda Fit,2009,2772040.39,4748809.02,58672,Diesel,Individual,Manual,First
+Mazda Demio,2012,946339.18,3386000.22,186736,Electric,Dealer,Automatic,Fourth & Above
+Nissan X-Trail,2007,4325273.24,1920638.83,103711,Diesel,Dealer,Automatic,Third
+Nissan X-Trail,2022,1317132.38,3250323.34,72629,Electric,Dealer,Manual,Fourth & Above
+Subaru Forester,2005,4824450.47,673791.52,113931,Diesel,Individual,Automatic,First
+Mazda Demio,2014,3473407.6,2567718.53,132585,Hybrid,Dealer,Automatic,First
+Honda Fit,2015,927701.74,3379029.91,66948,Petrol,Individual,Automatic,Fourth & Above
+Mazda Demio,2018,1815155.19,3968229.28,85223,Petrol,Individual,Manual,Second
+Honda Fit,2014,3742547.69,1665522.36,58078,Petrol,Individual,Manual,Third
+Honda Fit,2011,595742.3,5028506.72,136618,Electric,Individual,Manual,Fourth & Above
+Mazda Demio,2017,2763696.23,3836047.42,51869,Electric,Dealer,Automatic,Fourth & Above
+Mazda Demio,2024,3563250.11,4674882.06,169802,Petrol,Dealer,Automatic,Second
+Nissan X-Trail,2008,2934182.36,3024602.96,47136,Electric,Individual,Automatic,First
+Toyota Corolla,2015,3287571.96,304606.59,153368,Petrol,Dealer,Automatic,First
+Subaru Forester,2007,4511084.46,3126931.85,152648,Diesel,Dealer,Manual,Second
+Nissan X-Trail,2017,4543392.92,3901859.14,207444,Diesel,Dealer,Automatic,Second
+Mazda Demio,2021,3541793.48,1900984.78,10702,Petrol,Dealer,Automatic,Fourth & Above
+Mazda Demio,2012,1269230.95,5129429.03,221511,Diesel,Dealer,Automatic,Third
+Subaru Forester,2018,1143517.24,3889553.19,144227,Electric,Dealer,Automatic,Second
+Toyota Corolla,2015,4904597.96,1410012.46,137065,Diesel,Individual,Automatic,Fourth & Above
+Mazda Demio,2007,3571248.47,1209356.46,108088,Electric,Dealer,Automatic,Second
+Subaru Forester,2012,3182407.03,566138.22,223417,Petrol,Dealer,Automatic,Third
+Nissan X-Trail,2019,4047459.57,403641.72,124146,Petrol,Dealer,Manual,Fourth & Above
+Toyota Corolla,2021,3070472.9,3114836.14,72280,Petrol,Individual,Manual,Second
+Mazda Demio,2009,3816772.19,3993094.07,222924,Electric,Individual,Automatic,First
+Nissan X-Trail,2013,727304.19,3951651.08,26187,Electric,Dealer,Manual,First
+Mazda Demio,2020,4829410.54,2022868.6,185631,Petrol,Dealer,Manual,Third
+Subaru Forester,2018,810545.03,4867605.06,128959,Hybrid,Individual,Manual,Third
+Nissan X-Trail,2014,1898139.43,1973689.83,222016,Petrol,Dealer,Automatic,Second
+Mazda Demio,2008,1611294.87,5284480.22,132065,Diesel,Individual,Manual,Fourth & Above
+Mazda Demio,2015,2848771.17,2102951.49,111715,Petrol,Individual,Automatic,Second
+Subaru Forester,2008,1304579.76,5939806.57,182516,Petrol,Individual,Automatic,Second
+Subaru Forester,2005,1632412.82,441775.02,165447,Diesel,Individual,Manual,Third
+Honda Fit,2021,4753786.88,1028037.97,181495,Diesel,Individual,Manual,First
+Honda Fit,2005,3323069.63,347303.84,114010,Electric,Individual,Manual,First
+Subaru Forester,2018,2198630.39,1247691.12,43213,Petrol,Individual,Manual,Second
+Subaru Forester,2023,2186359.39,4684594.22,248712,Electric,Dealer,Automatic,Fourth & Above
+Mazda Demio,2018,4916976.11,718479.66,119973,Hybrid,Dealer,Automatic,Third
+Honda Fit,2016,4969029.06,709922.32,126196,Diesel,Dealer,Automatic,First
+Mazda Demio,2008,2070201.67,4521593.53,26806,Diesel,Individual,Manual,Second
+Toyota Corolla,2008,1575061.13,4395452.79,85447,Hybrid,Individual,Manual,Fourth & Above
+Nissan X-Trail,2011,3206504.5,2072896.62,183936,Hybrid,Individual,Manual,Second
+Toyota Corolla,2009,2452988.94,469921.84,42007,Hybrid,Individual,Automatic,Second
+Honda Fit,2007,1321087.82,5681970.55,40047,Hybrid,Individual,Automatic,Third
+Honda Fit,2022,3399485.95,1717910.48,207441,Diesel,Individual,Manual,Fourth & Above
+Nissan X-Trail,2014,4225378.3,5764437.88,112215,Diesel,Dealer,Automatic,Third
+Honda Fit,2015,2602814.37,2062794.46,134557,Hybrid,Dealer,Manual,First
+Honda Fit,2009,2172481.65,2016158.69,245677,Petrol,Dealer,Manual,Second
+Honda Fit,2023,3511283.82,655208.92,165764,Electric,Dealer,Manual,First
+Mazda Demio,2005,4723394.24,1749431.95,44122,Petrol,Dealer,Automatic,First
+Honda Fit,2011,2339200.69,5278900.23,73208,Petrol,Individual,Automatic,Second
+Mazda Demio,2013,2484210.62,3783960.88,209414,Hybrid,Individual,Automatic,Second
+Nissan X-Trail,2010,3185044.99,2708234.33,10736,Petrol,Dealer,Manual,Fourth & Above
+Mazda Demio,2006,1154788.46,3442659.81,134621,Electric,Individual,Automatic,Second
+Toyota Corolla,2011,3982478.05,3313514.45,178540,Hybrid,Individual,Automatic,Third
+Nissan X-Trail,2009,3434133.96,4306159.47,37751,Electric,Individual,Manual,Fourth & Above
+Mazda Demio,2024,3831203,4268348.36,34946,Diesel,Individual,Manual,Third
+Toyota Corolla,2014,1636868.21,738874.61,224112,Diesel,Individual,Automatic,First
+Toyota Corolla,2020,3298592.35,2151297.02,134973,Hybrid,Individual,Manual,First
+Nissan X-Trail,2013,1786076.97,390096.67,232761,Electric,Dealer,Automatic,Second
+Mazda Demio,2019,1472144.64,1298019.32,194217,Electric,Dealer,Manual,Third
+Mazda Demio,2019,1395854.26,3843059.57,233481,Electric,Individual,Manual,Fourth & Above
+Honda Fit,2014,4649381.59,5942388.16,15795,Electric,Dealer,Manual,Fourth & Above
+Mazda Demio,2009,2060521.39,2447498.56,214485,Diesel,Individual,Manual,First
+Toyota Corolla,2022,375898.06,3676449.91,174737,Electric,Individual,Manual,First
+Mazda Demio,2020,1900781.49,1446823.43,128515,Petrol,Individual,Automatic,Third
+Toyota Corolla,2007,3597416.69,4011680.7,37323,Hybrid,Individual,Manual,First
+Mazda Demio,2016,995895.25,4922714.1,103626,Petrol,Dealer,Automatic,Third
+Honda Fit,2013,598584.27,4937734.15,170433,Petrol,Individual,Manual,First
+Nissan X-Trail,2020,4559316.82,5219323.82,140931,Petrol,Dealer,Manual,Second
+Subaru Forester,2008,2726555.06,5437889.56,239631,Petrol,Individual,Automatic,Second
+Nissan X-Trail,2008,1794333.55,3935223.65,249111,Hybrid,Dealer,Automatic,Fourth & Above
+Subaru Forester,2015,1175829.84,4197799.97,225671,Hybrid,Individual,Automatic,Third
+Subaru Forester,2016,954596.96,2127053.55,16878,Petrol,Individual,Manual,Second
+Mazda Demio,2023,4494224.14,1918287.62,197459,Petrol,Dealer,Manual,Fourth & Above
+Nissan X-Trail,2007,1844178.26,4955001.62,211748,Hybrid,Dealer,Automatic,First
+Honda Fit,2020,3514237.02,789973.01,134270,Diesel,Individual,Manual,Fourth & Above
+Nissan X-Trail,2024,987982.52,1436660.81,72634,Electric,Individual,Manual,First
+Toyota Corolla,2024,2623374.11,5496241.06,212192,Electric,Dealer,Automatic,First
+Mazda Demio,2007,2173685.81,4759333.27,244052,Hybrid,Dealer,Automatic,Fourth & Above
+Honda Fit,2008,2973489.46,387824.21,207940,Petrol,Dealer,Automatic,Third
+Honda Fit,2015,2779316.72,4444071.7,56319,Hybrid,Dealer,Automatic,Third
+Toyota Corolla,2017,3157692.07,4694579.35,22193,Electric,Individual,Automatic,Fourth & Above
+Subaru Forester,2023,1342915.61,878304.87,113417,Hybrid,Individual,Manual,Second
+Nissan X-Trail,2023,2540894.53,3622067.2,54915,Diesel,Individual,Manual,Fourth & Above
+Honda Fit,2017,1129340.9,3675560.59,23801,Hybrid,Dealer,Automatic,First
+Subaru Forester,2014,3985242.7,3984610.15,193655,Hybrid,Individual,Automatic,First
+Honda Fit,2024,4202061.26,4001815.8,210002,Diesel,Individual,Automatic,First
+Honda Fit,2016,3960912.3,3281922.67,178490,Diesel,Individual,Manual,Third
+Honda Fit,2008,2242768.11,820720.75,16467,Petrol,Individual,Automatic,First
+Honda Fit,2005,3513422.11,5801175.15,213299,Electric,Dealer,Manual,First
+Honda Fit,2020,2085848.52,2105929.54,218088,Electric,Individual,Manual,Second
+Toyota Corolla,2018,3054203.16,1282431.3,105064,Petrol,Individual,Manual,First
+Honda Fit,2020,3381134.37,3057183.17,202048,Electric,Dealer,Automatic,Second
+Honda Fit,2009,3192964.38,3238578.41,30010,Electric,Individual,Automatic,Fourth & Above
+Subaru Forester,2013,2379771.9,4182394.37,62087,Diesel,Dealer,Manual,Second
+Subaru Forester,2010,4277386.94,4926756.14,178558,Petrol,Individual,Manual,Second
+Toyota Corolla,2018,653326.4,3496701.16,49241,Electric,Dealer,Manual,Third
+Nissan X-Trail,2012,695775.54,1635460.81,243419,Diesel,Dealer,Manual,Third
+Subaru Forester,2024,3324337.56,5561933.4,176011,Petrol,Dealer,Automatic,First
+Toyota Corolla,2005,1302817.44,3709886.59,70497,Petrol,Dealer,Manual,Second
+Mazda Demio,2009,2657020.47,4849158.17,190877,Hybrid,Dealer,Automatic,First
+Honda Fit,2019,1864282.8,4027277.36,144423,Hybrid,Individual,Manual,Fourth & Above
+Toyota Corolla,2018,598175.68,5534035.56,220866,Diesel,Individual,Manual,First
+Subaru Forester,2015,4596262.6,811832.25,246698,Petrol,Dealer,Manual,First
+Subaru Forester,2008,1326685.67,4074926.22,161961,Hybrid,Dealer,Manual,Third
+Nissan X-Trail,2014,3410118.32,4558145.33,50974,Petrol,Individual,Automatic,Fourth & Above
+Subaru Forester,2023,3817943.2,702708.2,202181,Petrol,Individual,Automatic,Second
+Mazda Demio,2023,3353921.39,4383828.48,189453,Hybrid,Individual,Automatic,First
+Nissan X-Trail,2021,4243406.2,5416978.76,147000,Diesel,Individual,Manual,Third
+Toyota Corolla,2007,3966687.45,2633730.93,232362,Hybrid,Individual,Manual,Third
+Toyota Corolla,2023,2596807.47,4745823.11,55657,Diesel,Dealer,Manual,Fourth & Above
+Mazda Demio,2008,3531909.64,5065921.2,222664,Petrol,Dealer,Manual,Third
+Honda Fit,2007,3258137.24,5048686.08,137795,Electric,Individual,Automatic,First
+Nissan X-Trail,2005,2960998.33,5307011.97,121160,Hybrid,Dealer,Manual,Fourth & Above
+Nissan X-Trail,2005,3224475.8,2712828.06,41422,Petrol,Dealer,Automatic,First
+Honda Fit,2012,1468355.9,2263331.45,145184,Electric,Dealer,Manual,Third
+Subaru Forester,2005,2045905.31,2904294.28,159072,Petrol,Dealer,Automatic,Second
+Honda Fit,2010,1008735.16,1499073.93,186830,Electric,Dealer,Manual,Fourth & Above
+Honda Fit,2017,3358817.31,2633199.91,81054,Hybrid,Dealer,Manual,Third
+Toyota Corolla,2017,4814607.38,5004198.38,171069,Hybrid,Dealer,Automatic,Second
+Subaru Forester,2013,3739852.21,2578770.44,198955,Hybrid,Dealer,Automatic,First
+Nissan X-Trail,2008,3017212.05,4676641.28,42068,Petrol,Individual,Manual,Fourth & Above
+Subaru Forester,2020,4979498.86,4440599.12,59958,Hybrid,Dealer,Manual,Third
+Subaru Forester,2015,611727.99,4557584.49,47131,Hybrid,Individual,Automatic,Second
+Honda Fit,2020,2175759.33,5655299.65,133868,Diesel,Individual,Manual,Fourth & Above
+Subaru Forester,2011,4676997.27,1081677.3,106215,Electric,Dealer,Manual,Fourth & Above
+Honda Fit,2007,2419903.52,5534195.85,10620,Petrol,Individual,Automatic,First
+Mazda Demio,2022,2204557.52,2043605.36,138459,Hybrid,Dealer,Automatic,Second
+Honda Fit,2020,3319518.72,2215516.37,146949,Petrol,Individual,Manual,Second
+Mazda Demio,2009,4672424.09,4012441.36,33434,Petrol,Dealer,Automatic,Third
+Toyota Corolla,2012,4863632.82,4584828.24,16176,Electric,Individual,Automatic,Fourth & Above
+Toyota Corolla,2008,3909606.44,3206768.78,71320,Petrol,Dealer,Manual,Third
+Toyota Corolla,2013,3495279.29,1892934.17,92818,Petrol,Individual,Automatic,Third
+Toyota Corolla,2016,4989069.87,2850705.11,218071,Hybrid,Individual,Automatic,Fourth & Above
+Honda Fit,2005,465367.34,1217122.85,109162,Petrol,Dealer,Manual,Third
+Nissan X-Trail,2017,2405425.86,2597406.67,95537,Petrol,Individual,Automatic,First
+Honda Fit,2020,4182337.7,4428333.62,105433,Petrol,Individual,Manual,Third
+Mazda Demio,2023,2558370.5,5594487.94,47359,Hybrid,Dealer,Manual,Fourth & Above
+Toyota Corolla,2011,936568.53,1683382.61,44839,Diesel,Individual,Manual,First
+Subaru Forester,2023,3047633.34,1767707.18,93269,Petrol,Dealer,Automatic,Second
+Mazda Demio,2006,2658450.26,5284254.83,181829,Electric,Individual,Manual,First
+Mazda Demio,2018,824699.32,5275063.32,86985,Diesel,Individual,Automatic,Second
+Mazda Demio,2012,480068.5,4779080.38,30070,Hybrid,Dealer,Automatic,First
+Subaru Forester,2021,4952548.81,1444623.23,161455,Diesel,Individual,Automatic,Second
+Subaru Forester,2022,3315038.97,4309149.13,78656,Hybrid,Individual,Manual,Fourth & Above
+Mazda Demio,2020,4362419.56,5357409.27,202888,Electric,Individual,Automatic,Third
+Mazda Demio,2005,4336179.22,4335334.18,232649,Petrol,Individual,Automatic,Fourth & Above
+Mazda Demio,2009,3896826.34,3580875.96,161473,Petrol,Individual,Automatic,First
+Subaru Forester,2012,3684027.92,3477320.75,12636,Hybrid,Dealer,Manual,Fourth & Above
+Nissan X-Trail,2016,2857128.29,2857051.01,59672,Hybrid,Dealer,Automatic,Second
+Toyota Corolla,2010,3587409.96,1443627.1,191443,Diesel,Individual,Automatic,Third
+Subaru Forester,2011,1510045.48,1846488.45,213213,Petrol,Individual,Automatic,Fourth & Above
+Subaru Forester,2015,2904839.08,2787858.89,177883,Petrol,Dealer,Manual,Fourth & Above
+Toyota Corolla,2012,1746011.44,5401410.32,229351,Hybrid,Individual,Manual,First
+Toyota Corolla,2019,2787892.45,1844151.17,65640,Petrol,Individual,Manual,Third
+Honda Fit,2007,1471632.57,4558877.38,158993,Hybrid,Individual,Manual,First
+Toyota Corolla,2023,2348159.88,506622.34,118790,Hybrid,Dealer,Automatic,Third
+Toyota Corolla,2017,2554824.48,1746482.91,131113,Diesel,Individual,Automatic,Second
+Toyota Corolla,2014,378214.58,5910549.39,116967,Hybrid,Dealer,Automatic,Fourth & Above
+Toyota Corolla,2014,2024308,3739453.88,215497,Electric,Individual,Automatic,Fourth & Above
+Subaru Forester,2006,3679035.49,1785530.88,220800,Hybrid,Dealer,Manual,First
+Subaru Forester,2005,600969.2,3694768.67,185076,Electric,Dealer,Manual,First
+Subaru Forester,2013,3000516.45,2959515.31,199660,Petrol,Individual,Automatic,Fourth & Above
+Nissan X-Trail,2023,772893.15,5056615.61,58053,Petrol,Individual,Automatic,Third
+Honda Fit,2024,2265542.28,4009030.18,88768,Diesel,Individual,Manual,First
+Toyota Corolla,2018,3987105.52,5349786.16,111533,Petrol,Individual,Automatic,First
+Honda Fit,2015,606105.98,5328763.61,244107,Diesel,Dealer,Automatic,Second
+Toyota Corolla,2014,1469400.24,5728707.86,241780,Electric,Individual,Manual,Fourth & Above
+Toyota Corolla,2016,4355090.1,3737733.65,78487,Electric,Individual,Automatic,Third
+Honda Fit,2012,2781531.02,592500.6,246936,Diesel,Dealer,Manual,First
+Nissan X-Trail,2009,4992860.86,5378725.97,249104,Petrol,Dealer,Manual,Fourth & Above
+Honda Fit,2005,2641017.34,1717199.06,81858,Hybrid,Dealer,Manual,Second
+Subaru Forester,2006,4835314.35,1135939.55,55131,Petrol,Individual,Automatic,Second
+Mazda Demio,2015,3005663.66,5483169.1,159995,Electric,Individual,Automatic,Second
+Nissan X-Trail,2015,798555.32,5972943.11,97479,Electric,Dealer,Manual,Second
+Mazda Demio,2016,3840544.1,4469919.67,184613,Petrol,Dealer,Automatic,Third
+Nissan X-Trail,2014,1336540.11,500354.13,166809,Diesel,Dealer,Automatic,Third
+Toyota Corolla,2014,626010.26,857788.42,214220,Petrol,Dealer,Automatic,First
+Nissan X-Trail,2007,4645815.46,4996558.34,64947,Hybrid,Individual,Automatic,Third
+Honda Fit,2023,4223472.01,3126072.72,49280,Petrol,Individual,Manual,Third
+Subaru Forester,2022,2590372.21,5615760.93,17740,Electric,Dealer,Manual,Fourth & Above
+Subaru Forester,2024,3993336.1,895457.79,31310,Hybrid,Dealer,Manual,First
+Toyota Corolla,2010,2849957.64,650154.5,210212,Hybrid,Dealer,Automatic,First
+Mazda Demio,2011,1015840.5,4953049.3,237266,Diesel,Individual,Automatic,Fourth & Above
+Nissan X-Trail,2018,466136.25,4865370.14,46319,Electric,Individual,Automatic,Third
+Mazda Demio,2023,4854482.51,730833.12,137105,Electric,Individual,Automatic,First
+Nissan X-Trail,2013,1561939.32,3182233.38,151263,Diesel,Individual,Manual,First
+Toyota Corolla,2015,1705780.23,1869084.78,19701,Electric,Individual,Manual,Third
+Honda Fit,2009,2390547.98,5987291.24,27891,Hybrid,Dealer,Automatic,Fourth & Above
+Subaru Forester,2009,4589449.74,2455980.81,85403,Diesel,Individual,Manual,First
+Toyota Corolla,2008,1265504.49,2960619.43,137997,Diesel,Individual,Automatic,Second
+Toyota Corolla,2014,4433649.22,2444380.86,194851,Hybrid,Individual,Manual,First
+Nissan X-Trail,2018,2843578.08,863541.24,55319,Diesel,Individual,Automatic,First
+Subaru Forester,2019,3643059.12,3363230.1,174013,Petrol,Individual,Automatic,Third
+Nissan X-Trail,2010,4368280.47,4584157.98,67889,Diesel,Dealer,Manual,First
+Nissan X-Trail,2005,2474347.65,4264920.51,50325,Hybrid,Dealer,Manual,First
+Honda Fit,2006,1445408.38,5314784.98,74368,Diesel,Dealer,Manual,Third
+Toyota Corolla,2016,4620374.26,3726024.42,52072,Electric,Individual,Automatic,First
+Subaru Forester,2024,2008192.02,2647224.15,54040,Petrol,Individual,Automatic,Fourth & Above
+Honda Fit,2010,3389898.73,5672442.01,238833,Electric,Dealer,Manual,First
+Honda Fit,2020,1265840.36,1979382.39,241652,Hybrid,Individual,Manual,Second
+Mazda Demio,2022,3062177.58,878034.45,60855,Electric,Dealer,Manual,First
+Honda Fit,2017,4022128.27,4686576.65,104945,Diesel,Dealer,Manual,Fourth & Above
+Honda Fit,2017,4659877.67,762078.01,81854,Petrol,Dealer,Manual,Third
+Mazda Demio,2018,3716450.55,488374.72,216980,Petrol,Individual,Automatic,Third
+Mazda Demio,2009,3516739.19,1240228.01,119162,Electric,Individual,Manual,Fourth & Above
+Nissan X-Trail,2011,4348169.01,2220046.12,184048,Diesel,Dealer,Automatic,Second
+Toyota Corolla,2007,1802858.57,1486739.34,144940,Hybrid,Dealer,Automatic,Third
+Toyota Corolla,2024,3308600.94,4070807.54,127295,Petrol,Dealer,Automatic,Third
+Honda Fit,2017,4522440.78,5525534.01,219765,Petrol,Individual,Manual,Fourth & Above
+Mazda Demio,2015,2421640.34,3046698.46,61815,Diesel,Dealer,Manual,Third
+Subaru Forester,2022,3148227.62,1244814.27,187335,Hybrid,Individual,Manual,Fourth & Above
+Mazda Demio,2006,804445.12,5669607.02,57335,Hybrid,Dealer,Manual,First
+Subaru Forester,2019,3730710.15,1506336.11,234068,Petrol,Dealer,Manual,Second
